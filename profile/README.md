@@ -3,11 +3,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h1 align="center">Daasity Organization</h1>
-
-  <p align="center">
-  </p>
-
   <img src="profile/images/daasity_full_logo_on_white_with_tag.png" alt="Daasity Logo" width="300">
 </div>
 
@@ -15,34 +10,31 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<h2 id="table-of-contents"> :book: Table of Contents</h2>
-
-<details open="open">
-  <summary>Table of Contents</summary>
+<!-- <details open="open">
   <ol>
     <li><a href="#about-the-project"> ➤ About</a></li>
     <li><a href="#overview"> ➤ Overview</a></li>
     <li><a href="#developer_notes"> ➤ Developer Notes </a></li>
   </ol>
-</details>
-https://github.com/ajavageek
------------------------------------------------------
+</details> -->
+
+<!-- ----------------------------------------------------- -->
 
 <!-- ABOUT THE PROJECT -->
-<h2 id="about-the-project"> :pencil: About</h2>
+<!-- <h2 id="about-the-project"> :pencil: About</h2>
 
 <p align="justify">
-</p>
+</p> -->
 
------------------------------------------------------
+<!-- ----------------------------------------------------- -->
 
 <!-- OVERVIEW -->
-<h2 id="overview"> :cloud: Overview</h2>
+<!-- <h2 id="overview"> :cloud: Overview</h2>
 
 <p align="justify">
-</p>
+</p> -->
 
------------------------------------------------------
+<!-- ----------------------------------------------------- -->
 
 <!-- DEVELOPER NOTES -->
-<h2 id="developer_notes"> 👨‍💻 Developer Notes</h2>
+<!-- <h2 id="developer_notes"> 👨‍💻 Developer Notes</h2> -->
