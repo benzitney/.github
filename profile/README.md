@@ -8,7 +8,7 @@
   <p align="center">
   </p>
 
-  <img src="images/daasity_full_logo_on_white_with_tag.png" alt="Daasity Logo" width="300">
+  <img src="profile/images/daasity_full_logo_on_white_with_tag.png" alt="Daasity Logo" width="300">
 </div>
 
 <!-- PROJECT SHIELDS -->
